@@ -1,0 +1,10 @@
+{
+    "name": "klevi/project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Klevi\\Project\\": "src/"
+        }
+    },
+    "require": {}
+}

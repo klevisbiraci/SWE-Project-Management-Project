@@ -1,0 +1,40 @@
+1) Search
+- String matching for the name 
+- tags also
+- category matching
+
+2) Filter 
+{
+- popularity
+- newest 
+- price from highest to lowest and the opposite 
+} => dropdown
+- category
+- price
+- brand
+- skin type
+- action (what it do)
+- hair type
+- suitable for (baby, kids, (A)women, (A)man)
+
+3) Contact
+{
+- Email form with:
+	> phone number (Optional)
+	> email (Mandatory)
+	> name (Mandatory)
+	> subject (Optional) => if not provided have default
+	> message (Mandatory)
+} => have a captcha to avoid DDoS attacks
+
+4) Cart
+- From the product Page add/from cart page remove
+- increase/decrease quantity
+- calculate total on real time
+
+5) Checkout TBD
+
+6) Subscribe 
+- name
+- email
+- captcha
